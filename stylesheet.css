@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#header {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+
+#content {
+    margin: 20px;
+}
+
+.description {
+    color: black;
+    margin: 10px 0;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
